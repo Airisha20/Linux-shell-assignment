@@ -1,0 +1,188 @@
+# Author - Raghav Gupta
+# Date - 13/11/2025
+# Purpose - System details brought about by monitor.sh
+
+------ Fri Nov 14 08:31:05 IST 2025 ------
+top - 08:31:05 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7201.8 free,    378.0 used,    205.4 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7257.4 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       378Mi       7.0Gi       3.0Mi       205Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 08:31:15 IST 2025 ------
+top - 08:31:15 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.8 free,    379.5 used,    205.8 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7255.9 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       379Mi       7.0Gi       3.0Mi       205Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 08:31:25 IST 2025 ------
+top - 08:31:25 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  33 total,   1 running,  32 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.8 free,    375.9 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7259.5 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:01:21 IST 2025 ------
+top - 09:01:21 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.3 free,    376.4 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7259.1 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:01:31 IST 2025 ------
+top - 09:01:31 up 20 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7201.2 free,    375.4 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7260.0 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       375Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:01:41 IST 2025 ------
+top - 09:01:41 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  1.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7202.1 free,    374.6 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7260.8 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       374Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:01:51 IST 2025 ------
+top - 09:01:51 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7201.6 free,    375.1 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7260.3 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       375Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:01 IST 2025 ------
+top - 09:02:02 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.4 free,    376.3 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7259.1 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:12 IST 2025 ------
+top - 09:02:12 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.2 free,    377.4 used,    208.5 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7258.0 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       377Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:22 IST 2025 ------
+top - 09:02:22 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7198.7 free,    378.0 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7257.4 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       377Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:32 IST 2025 ------
+top - 09:02:32 up 21 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7202.0 free,    374.6 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7260.8 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       374Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:42 IST 2025 ------
+top - 09:02:42 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.4 free,    376.3 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7259.2 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:02:52 IST 2025 ------
+top - 09:02:52 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.9 free,    376.7 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7258.7 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:02 IST 2025 ------
+top - 09:03:03 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.6 free,    377.0 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7258.4 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       377Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:13 IST 2025 ------
+top - 09:03:13 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.0 free,    377.6 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7257.8 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       377Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:23 IST 2025 ------
+top - 09:03:23 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7199.9 free,    376.7 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7258.7 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:33 IST 2025 ------
+top - 09:03:33 up 22 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.8 free,    375.8 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7259.6 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       375Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:43 IST 2025 ------
+top - 09:03:43 up 23 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7200.0 free,    376.6 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7258.8 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       376Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:03:53 IST 2025 ------
+top - 09:03:53 up 23 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7202.8 free,    373.8 used,    208.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7261.6 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       374Mi       7.0Gi       3.0Mi       208Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:06:06 IST 2025 ------
+top - 09:06:06 up 25 min,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   7785.2 total,   7201.9 free,    373.4 used,    209.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7262.0 avail Mem
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       373Mi       7.0Gi       3.0Mi       209Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+------ Fri Nov 14 09:06:16 IST 2025 ------
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       372Mi       7.0Gi       3.0Mi       209Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
